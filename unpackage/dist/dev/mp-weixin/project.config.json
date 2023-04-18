@@ -11,6 +11,7 @@
     "minified": false,
     "newFeature": true,
     "bigPackageSizeSupport": true,
+    "checkSiteMap": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -19,7 +20,7 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.31.0",
-  "appid": "touristappid",
+  "appid": "wxda7a0ef4f3ca8ab1",
   "projectname": "uni-app-shop",
   "condition": {},
   "editorSetting": {
